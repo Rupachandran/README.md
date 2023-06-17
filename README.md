@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RupachandranS</h1> <h3 align="center">GRAND WIZARD OF TECHNOLOGY 🖖</h3>
+<h1 align="center">Hi 👋, I'm Rupachandran</h1> <h3 align="center">GRAND WIZARD OF TECHNOLOGY 🖖</h3>
 
 
 

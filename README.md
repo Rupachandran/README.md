@@ -1,4 +1,7 @@
-## Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm RupachandranS</h1> <h3 align="center">GRAND WIZARD OF TECHNOLOGY 🖖</h3>
+
+
+
 <a href="https://www.linkedin.com/in/rupachandrans/">
   <img align="left" alt="Rupachandran's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -6,6 +9,8 @@
   <img align="left" alt="Rupachandran's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
 <br />
+
+
 
 Hi ,I'm [Rupachandran S](https://www.linkedin.com/in/rupachandrans/) ,Currently ,<strong> pursuing 👩‍💻 M.Tech Integrated Computer Science Engineering</strong> from Vellore Institute of Technology ,Chennai.
 
